@@ -20,7 +20,8 @@
 <a href="mailto:wendell.maschette@gmail.com?subject=Olá%20Wendell,%20tudo%20bem?Podemos%20conversar?">
 	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-- ⚡ Principais Habilidades: 
+
+<h3>⚡ Principais Habilidades: </h3> 
 <table>
 	<tr>
     <td align="center">
