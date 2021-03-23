@@ -3,14 +3,14 @@
 
 <h3>😁 Um pouco sobre mim:</h3>
  
-
 - 🔭 Atualmente trabalho como Desenvolvedor Front-End Jr. no Bitz, a carteira digital do Bradesco.
 - 🌱 Estou aprendendo sobre o mundo front-end, principalmente com Angular e React.
 - 📕 Cursando Gestão de T.I. pela CUFSA.
 - 📌 Moro em Santo André-SP
 - 💻 Sou apaixonado por tecnologia e o mundo da programação.
 - :heart: Amor incondicional por futebol e tatuagens.
-- 📫 Pode entrar em contato comigo por:
+
+<h3>📫 Pode entrar em contato comigo por: </h3>
 <a href="https://www.linkedin.com/in/wendell-maschette-737312196/">
 	<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
