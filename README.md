@@ -26,7 +26,7 @@
 <table>
 	<tr>
     <td align="center">
-			<img alt="React" src="https://img.shields.io/badge/react%20-%23323330.svg?&style=plastic&logo=react&logoColor=white"/>
+			<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 		</td>
     <td align="center">
 			<img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=plastic&logo=angular&logoColor=white"/>
@@ -47,7 +47,7 @@
 			<img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=plastic&logo=bitbucket&logoColor=white"/>
 		</td>
 		<td align="center">
-			<img alt="Node" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=plastic&logo=bitbucket&logoColor=white"/>
+			<img alt="Node" src="https://badges.aleen42.com/src/node.svg"/>
 		</td>
 	</tr>
 </table>
