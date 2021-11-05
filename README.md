@@ -2,7 +2,8 @@
 <h1 align="center">👋 Bem-vindo! 🚀</h1>
 
 <h3>😁 Um pouco sobre mim:</h3>
- 
+
+- 🙋🏼‍♂️ Tenho 19 anos
 - 🔭 Atualmente trabalho como Desenvolvedor Front-End Jr. no Bitz, a carteira digital do Bradesco.
 - 🌱 Estou aprendendo sobre o mundo front-end, principalmente com Angular e React.
 - 📕 Cursando Gestão de T.I. pela CUFSA.
@@ -44,6 +45,9 @@
 		</td>
 		<td align="center">
 			<img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=plastic&logo=bitbucket&logoColor=white"/>
+		</td>
+		<td align="center">
+			<img alt="Node" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=plastic&logo=bitbucket&logoColor=white"/>
 		</td>
 	</tr>
 </table>
