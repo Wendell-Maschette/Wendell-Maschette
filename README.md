@@ -3,7 +3,7 @@
 
 <h3>😁 Um pouco sobre mim:</h3>
 
-- 🙋🏼‍♂️ Tenho 19 anos
+- 🙋🏼‍♂️ Tenho 20 anos
 - 🔭 Atualmente trabalho como Desenvolvedor Front-End Jr. no Bitz, a carteira digital do Bradesco.
 - 🌱 Estou aprendendo sobre o mundo front-end, principalmente com Angular e React.
 - 📕 Cursando Gestão de T.I. pela CUFSA.
