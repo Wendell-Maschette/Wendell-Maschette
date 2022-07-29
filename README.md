@@ -6,7 +6,7 @@
 - 🙋🏼‍♂️ Tenho 20 anos
 - 🔭 Atualmente trabalho como Desenvolvedor Front-End Jr. no Bitz, a carteira digital do Bradesco.
 - 🌱 Estou aprendendo sobre o mundo front-end, principalmente com Angular e React.
-- 📕 Cursando Gestão de T.I. pela CUFSA.
+- 📕 Formado em Gestão de T.I. pela CUFSA.
 - 📌 Moro em Santo André-SP
 - 💻 Sou apaixonado por tecnologia e o mundo da programação.
 - :heart: Amor incondicional por futebol e tatuagens.
