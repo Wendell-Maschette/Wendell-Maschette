@@ -3,9 +3,9 @@
 
 <h3>😁 Um pouco sobre mim:</h3>
 
-- 🙋🏼‍♂️ Tenho 21 anos.
-- 🔭 Sou Desenvolvedor Front-End.
-- 🌱 5 anos desenvolvendo sendo 4 desses principalmente com Angular e React.
+- 🙋🏼‍♂️ Tenho 22 anos.
+- 🔭 Sou Desenvolvedor Full-Stack.
+- 🌱 5 anos desenvolvendo sendo 4 desses principalmente com Angular, React e Node Js.
 - 📕 Formado em Gestão de T.I. pela CUFSA.
 - 📌 Moro em Santo André-SP
 - 💻 Sou apaixonado por tecnologia e o mundo da programação.
